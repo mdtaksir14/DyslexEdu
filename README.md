@@ -342,10 +342,10 @@ Potential future enhancements include:
 
 # Author
 
-**Arunima Banerjee**
-
+**Md Taksir Alam**
+https://github.com/mdtaksir14/DyslexEdu/edit/main/README.md
 GitHub  
-https://github.com/ArunimaBanerjee88
+
 
 ---
 
